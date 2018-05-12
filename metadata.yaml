@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3840
     wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23922#Dead-Man-s-Land--13-Being-the-Voyage-to-Zimbambangwe-of-certain-and-uncertain-blacks-and-whit_
 gutenberg_bookshelf: Animals-Wild-Trapping
 gutenberg_issued: '2007-12-19'
 gutenberg_type: Text
